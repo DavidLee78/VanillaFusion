@@ -1,5 +1,5 @@
-name: "Tank"
-description: "An unit designed to pave your foes down."
+name: "Thorium Tank"
+description: "Can be exchanged with bitcoin at galactic trade center"
 details: "Of course, there are also other war machines out there."
 speed : 0.65
 health: 450
