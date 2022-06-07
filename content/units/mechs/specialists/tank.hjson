@@ -33,7 +33,7 @@ top: false
 shootSound: shoot
 x: -4
 y: 1
-rotate: false
+rotate: true
 bullet: {
 type: MissileBulletType
 damage: 7
