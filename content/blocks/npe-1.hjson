@@ -1,20 +1,19 @@
 {
 	"type": "GenericCrafter",
-	"name": "N.P.E - Ti",
-	"description": "Nuclear Properties Editor or N.P.E. use for changing other materials or resources into the other material or resources by combining and transferring their electrons, protons and neutrons. This one is for creating Titanium",
+	"name": "N.P.E-1 'BC'",
+	"description": "Nuclear Properties Editor or N.P.E is used to change the Electron Structure of Copper to transmutate it in various Resources",
 	"itemCapacity": 10,
-	"outputItem": {"item": "titanium", "amount": 1},
-	"size": 7,
+	"outputItem": {"item": "blast-compound", "amount": 1},
+	"size": 2,
 	"hasPower": true,
 	"hasItems": true,
-	"craftTime": 1200,
+	"craftTime": 2500,
 	"craftEffect": "smeltsmoke",
 	"consumes": {
-		"power": 7.5,
+		"power": 5,
 		"items": {
 			"items": [
-				{ "item": "copper", "amount": 4},
-            { "item": "lead", "amount": 2 }
+				{ "item": "copper", "amount": 5},
 			]
 		}
 	},
