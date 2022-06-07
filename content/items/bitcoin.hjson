@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Bitcoin",
+	"description": "One of the most sacre  Resource, can be traded for alot of things in future",
+	"hardness": 1,
+	"cost": 0.5,
+	"color": "e1fefc"
+}

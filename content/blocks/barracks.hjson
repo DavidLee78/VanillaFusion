@@ -6,9 +6,7 @@ plans: [
   {
     unit: tank
     requirements: [
-      copper/35
-      lead/25
-      silicon/40
+      bitcoin/20
     ]
     time: 450
   }
